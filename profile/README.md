@@ -56,7 +56,7 @@ We're always open to collaboration on projects that intersect technology and the
 
 - **How to Reach Us:**
   - **Email:** [info@bassfinity.com](mailto:info@bassfinity.com)
-  - **Website:** [bassfinity.com](https://bassfinity.com)
+  - **Website:** [bassfinity.com](http://bassfinity.com)
   - **X (formerly Twitter):** [@bassfinity](https://x.com/bassfinity)
 
 ---
