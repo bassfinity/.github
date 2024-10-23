@@ -58,6 +58,11 @@ We're always open to collaboration on projects that intersect technology and the
   - **Email:** [info@bassfinity.com](mailto:info@bassfinity.com)
   - **Website:** [bassfinity.com](http://bassfinity.com)
   - **X (formerly Twitter):** [@bassfinity](https://x.com/bassfinity)
+  - 🎧 Join the Bassfinity Discord Community
+
+We now have a dedicated Discord server where anglers and developers can discuss fishing tips, share project updates, and collaborate on new ideas. Whether you're passionate about bass fishing, software development, or both, you'll find a welcoming community of like-minded individuals.
+
+- **Discord Invite:** [Join our Discord](https://discord.gg/PZSSWcZy)
 
 ---
 
