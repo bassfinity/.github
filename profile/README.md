@@ -1,4 +1,4 @@
-# Bassfinity�
+# Bassfinity
 
 [![Website](https://img.shields.io/badge/Website-bassfinity.com-blue)](https://bassfinity.com)
 [![Email](https://img.shields.io/badge/Email-info@bassfinity.com-red)](mailto:info@bassfinity.com)
