@@ -1,4 +1,4 @@
-# Bassfinity 🎣
+# Bassfinity�
 
 [![Website](https://img.shields.io/badge/Website-bassfinity.com-blue)](https://bassfinity.com)
 [![Email](https://img.shields.io/badge/Email-info@bassfinity.com-red)](mailto:info@bassfinity.com)
@@ -8,7 +8,7 @@ Welcome to Bassfinity's GitHub profile! We are passionate about bass fishing and
 
 ---
 
-## 🎣 Featured Project: SolunarBass
+## Featured Project: SolunarBass
 
 [![SolunarBass](https://img.shields.io/badge/SolunarBass-App-brightgreen)](https://github.com/bassfinity/solunarbass)
 
@@ -32,7 +32,7 @@ Welcome to Bassfinity's GitHub profile! We are passionate about bass fishing and
 
 ---
 
-## 📚 About Us
+## About Us
 
 Bassfinity is dedicated to enhancing the bass fishing experience through innovative technology and data analysis. We believe in combining modern tools with traditional hobbies to make fishing more enjoyable and accessible for everyone.
 
@@ -50,7 +50,7 @@ Bassfinity is dedicated to enhancing the bass fishing experience through innovat
 
 ---
 
-## 🤝 Collaborate with Us
+## Collaborate with Us
 
 We're always open to collaboration on projects that intersect technology and the great outdoors.
 
@@ -66,7 +66,7 @@ We now have a dedicated Discord server where anglers and developers can discuss 
 
 ---
 
-## 🌱 Let's Connect
+## Let's Connect
 
 If you're passionate about fishing, environmental science, or technology, feel free to connect! We're eager to learn from others and contribute to exciting projects.
 
@@ -75,10 +75,10 @@ If you're passionate about fishing, environmental science, or technology, feel f
 
 ---
 
-## 📝 License
+## License
 
 This profile and all its contents are licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
-*Happy fishing and coding!* 🎣👨‍💻
+*Happy fishing and coding!* 
