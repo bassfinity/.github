@@ -12,7 +12,7 @@ Welcome to Bassfinity's GitHub profile! We are passionate about bass fishing and
 
 [![SolunarBass](https://img.shields.io/badge/SolunarBass-App-brightgreen)](https://github.com/bassfinity/solunarbass)
 
-**SolunarBass** is an application that helps anglers determine the optimal bass fishing times based on the Solunar Theory. By analyzing lunar and solar positions, the app provides personalized recommendations to increase your chances of a successful fishing trip.
+**SolunarBass** is an application that helps anglers determine the optimal times for bass fishing based on the Solunar Theory. By analyzing lunar and solar positions, the app provides personalized recommendations to increase your chances of a successful fishing trip.
 
 - **Features:**
   - Calculates major and minor fishing periods using the Solunar Theory.
@@ -58,7 +58,7 @@ We're always open to collaboration on projects that intersect technology and the
   - **Email:** [info@bassfinity.com](mailto:info@bassfinity.com)
   - **Website:** [bassfinity.com](http://bassfinity.com)
   - **X (formerly Twitter):** [@bassfinity](https://x.com/bassfinity)
-  - 🎧 Join the Bassfinity Discord Community
+  - Join the Bassfinity Discord Community
 
 We now have a dedicated Discord server where anglers and developers can discuss fishing tips, share project updates, and collaborate on new ideas. Whether you're passionate about bass fishing, software development, or both, you'll find a welcoming community of like-minded individuals.
 
@@ -68,7 +68,7 @@ We now have a dedicated Discord server where anglers and developers can discuss 
 
 ## Let's Connect
 
-If you're passionate about fishing, environmental science, or technology, feel free to connect! We're eager to learn from others and contribute to exciting projects.
+If you're passionate about fishing, environmental science, or technology, please don't hesitate to connect! We're eager to learn from others and contribute to exciting projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/company/bassfinity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/bassfinity)
